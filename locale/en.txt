@@ -1,0 +1,174 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_3176EAF8_27FD_E154_41B0_80D2F57C690D.source = https://andikaarywiguna.github.io/gatotsubroto/
+LinkBehaviour_2F1807DB_1AD7_112F_41A2_9F9A02B18858.source = https://andikaarywiguna.github.io/purajati/
+LinkBehaviour_2A333A40_1AD7_1319_4189_60CAD51EC418.source = https://storage.net-fs.com/hosting/8263316/2/
+LinkBehaviour_2895EEAF_1AD7_1367_4179_1C86E9B13660.source = https://storage.net-fs.com/hosting/8263316/3/
+LinkBehaviour_2D22CADC_0D08_67DF_41A9_274D1E26A4DC.source = https://web.facebook.com/bpbdjembranabali
+LinkBehaviour_2C66BF0A_0D37_FE3A_41A4_06C1C7808B40.source = https://www.instagram.com/bpbdjembranabali?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
+LinkBehaviour_2CD7D5AA_0D08_227A_419A_18F19B084238.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
+PopupWebFrameBehaviour_12B2E85E_0C3B_CED2_4179_8481711DCD83.url = //www.youtube.com/embed/QSAQSusgOto?v=QSAQSusgOto&list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6&index=2
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_832F3256_1209_932B_41A8_D96A30E13540.text = PANTAI PENGAMBENGAN
+HotspotPanoramaOverlayTextImage_BDFE5C29_05C2_AF1D_418F_ACE977B5BF42.text = PANTAI PENGAMBENGAN 
+HotspotPanoramaOverlayTextImage_3F71E1D9_1B5B_F12B_4194_7BC772E54222.text = TEA BALAI SUBAK PEMAKET AWEN  SELATAN
+
+## Media
+
+### Audio
+audiores_19DBDFAC_18C3_1510_41AF_0B0EAA322546.mp3Url = media/audio_19DB2C6A_18C3_3B10_41A7_A947E30E46A0_en.mp3
+
+### Audio Subtitles
+
+### Image
+imlevel_0E5A94E3_2302_68F0_41C1_43C544672168.url = media/panorama_E49BC7E7_FAE0_A311_41D8_B6556BB3A95C_HS_0og96iiw_en.png
+imlevel_0E584575_2302_69D0_41BB_80FBCE2A4470.url = media/panorama_E49BC7E7_FAE0_A311_41D8_B6556BB3A95C_HS_1jb4ngb5_en.png
+imlevel_0E5BD47C_2302_6FD0_41B5_9D33B162BCE5.url = media/panorama_FDB3C106_F60E_FB8A_41DE_AEC49BFFA03B_HS_l2nw4xnj_en.png
+
+### Title
+panorama_0C2DFD8E_2306_1933_41B6_50BAB3D5C416.label = 1
+panorama_112C0F2D_2306_3971_41B7_D22EF79C1AFC.label = 10
+panorama_0C295460_2306_6FEF_41B1_AC580DD80529.label = 11
+panorama_0C537161_2306_69F1_41AD_99BB6844354E.label = 12
+panorama_0C28C076_2307_E7D0_41AF_66713C730501.label = 13
+panorama_0C287C95_2306_1F51_41A4_23036B83A93C.label = 14
+panorama_0C3CB888_2306_E73F_41B5_8E7FA73BF629.label = 15
+panorama_0C3D5623_2306_EB70_41C0_EAA7A9A24C96.label = 16
+panorama_0C39726D_2306_2BF3_4191_85D5DAB072D2.label = 17
+panorama_0C2A585A_2306_27D0_41C1_9FA8208D9400.label = 18
+panorama_0C2BE3D5_2306_28D0_41B3_03B85CFD5CB9.label = 19
+panorama_0C2D0A93_2306_3B50_41B7_544575D4C73D.label = 2
+panorama_0C3C6FF7_2306_38D0_41BA_8CDE93598285.label = 20
+panorama_0C3F1CBB_2306_1F51_41BB_9B99C41AC3A5.label = 21
+panorama_0C25E062_2306_67F0_419A_4A66E01C817D.label = 22
+panorama_0C299712_2306_2950_41B8_A367AD90DC65.label = 3
+panorama_0C277C5A_2306_7FD3_41AC_EAF54FFCE7FC.label = 4
+panorama_0C272824_2306_6770_41BD_07E87B3A87CD.label = 5
+panorama_0C23F440_2306_2F30_41B4_A5FCB29FE4AA.label = 6
+panorama_0C28D459_2307_EFD1_41C0_FC8BD95D3807.label = 7
+panorama_0C20606E_2306_27F3_41BB_B95D6D922E4F.label = 8
+panorama_0C235C47_2306_1F31_41BB_0D292496DD17.label = 9
+panorama_FA908661_F60A_F986_41E3_CEF04ADECAFD.label = BalaiSubak1
+panorama_FDB7548B_F60B_BA9B_41EA_8812269944A6.label = BalaiSubak10
+panorama_FDB41404_F60A_B98D_41EA_68433A4E3947.label = BalaiSubak11
+panorama_FDB751B0_F60A_9A86_41D7_17C238686D7A.label = BalaiSubak14
+panorama_FDB78E84_F60B_668E_4186_107D0FE21BC7.label = BalaiSubak16
+panorama_FDB50364_F609_9F8D_41E7_3F63F7F9CCB2.label = BalaiSubak18
+panorama_FDB677B4_F60A_A68E_41D4_88D54ED5DD99.label = BalaiSubak20
+panorama_FDB7B2E5_F60B_9E8F_41E6_6517A8E90B1C.label = BalaiSubak21
+panorama_FDB6D434_F60A_B98E_41DD_E93339ACA7B3.label = BalaiSubak22
+panorama_FDB53E18_F609_A986_41E2_3A10FA84850A.label = BalaiSubak24
+panorama_FDB53FDC_F609_E6BD_41CD_D67F686A68C2.label = BalaiSubak26
+panorama_FDB52490_F609_9A85_41E6_EBBF4E9BAA01.label = BalaiSubak29
+panorama_FDB48E59_F609_A987_41EB_6B04A14D4D80.label = BalaiSubak30
+panorama_FDB42891_F609_AA87_41C0_76D79694B311.label = BalaiSubak31
+panorama_FDB477A8_F609_6685_41C1_C2D12A816EC4.label = BalaiSubak32
+panorama_FDB52A35_F60A_E98F_41E8_E4CC3E0CDCAA.label = BalaiSubak33
+panorama_FDB48C3C_F609_69FE_41E7_143D4CCE6542.label = BalaiSubak35
+panorama_FDB3CF93_F60E_A68B_41DD_1AEAA567A2D4.label = BalaiSubak37
+panorama_FDB3D955_F60E_AB8F_41E4_2CB2079E9E6D.label = BalaiSubak39
+panorama_FDAC0DAA_F60E_EA85_41E2_07F634867876.label = BalaiSubak4
+panorama_FDAC267A_F60E_E67A_41EB_6A6F174132C1.label = BalaiSubak40
+panorama_FDB534C3_F60A_FA8B_41D6_BAF332FC4C0D.label = BalaiSubak42
+panorama_FDB3C106_F60E_FB8A_41DE_AEC49BFFA03B.label = BalaiSubak45
+panorama_FDB56C44_F60A_A98E_41DA_AF0AE362650D.label = BalaiSubak5
+panorama_FDB5D713_F609_678A_41E6_6623BAE50BD1.label = BalaiSubak7
+panorama_E49BC7E7_FAE0_A311_41D8_B6556BB3A95C.label = BalaiSubakDroneKumpul
+photo_12DD6510_2502_2950_41C2_2FC588ED3B08.label = Screenshot_15
+photo_EBA6990F_044F_6917_4197_9135AAB665A6.label = Screenshot_2
+photo_BCBB8C3D_044D_EF7A_4184_954C4380E4A2.label = Screenshot_3
+
+## Popup
+
+### Body
+htmlText_108FA047_2502_2731_41B9_CD19B8F7D639.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;font-family:'Montserrat SemiBold';"><B><U>BALAI BANJAR KETAPANG MUARA</U></B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Montserrat SemiBold';"/></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Montserrat SemiBold';"/></SPAN></DIV><DIV STYLE="text-align:center;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:11px;font-family:'Montserrat SemiBold';">-8.398456182769634, 114.59044940677764</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';">JH2R+J59, Pengambengan, Kec. Negara, Kabupaten Jembrana, Bali                                         </SPAN></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Montserrat SemiBold';"/></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';">Jarak total: 995,04 m (3.264,57 kaki) Menuju TEA Balai Subak Pemaket Awen Selatan</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_245AB902_04CE_A909_4197_20D33E2E56C1.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;font-family:'Montserrat SemiBold';"><B><U>MASJID NURUL HUDA</U></B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Montserrat SemiBold';"/></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Montserrat SemiBold';"/></SPAN></DIV><DIV STYLE="text-align:center;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:11px;font-family:'Montserrat SemiBold';">-8.399684933851066, 114.59431639980629</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';">JH2V+4PP, Pengambengan, Kec. Negara, Kabupaten Jembrana, Bali                                         </SPAN></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Montserrat SemiBold';"/></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';">Jarak total: 509,56 m (1.671,80 kaki) Menuju TEA Balai Subak Pemaket Awen Selatan</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_16E9CC85_2502_FF31_417F_C6F68E471264.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;font-family:'Montserrat SemiBold';"><B><U>MASJID NURUL HUDA</U></B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Montserrat SemiBold';"/></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Montserrat SemiBold';"/></SPAN></DIV><DIV STYLE="text-align:center;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:11px;font-family:'Montserrat SemiBold';">-8.399684933851066, 114.59431639980629</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';">JH2V+4PP, Pengambengan, Kec. Negara, Kabupaten Jembrana, Bali                                         </SPAN></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Montserrat SemiBold';"/></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';">Jarak total: 509,56 m (1.671,80 kaki) Menuju TEA Balai Subak Pemaket Awen Selatan</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_221B699D_04C5_E93B_4193_57F02B94BCA4.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;font-family:'Montserrat SemiBold';"><B><U>SD NEGERI 3 PENGAMBENGAN</U></B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Montserrat SemiBold';"/></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Montserrat SemiBold';"/></SPAN></DIV><DIV STYLE="text-align:center;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;font-family:'Montserrat SemiBold';">-8.40098556294542, 114.59434317252554</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';">HHXV+JM7, Pengambengan, Kec. Negara, Kabupaten Jembrana, Bali</SPAN></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Montserrat SemiBold';"/></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';">Jarak total: 643,17 m (2.110,14 kaki) Menuju TEA Balai Subak Pemaket Awan Selatan</SPAN></SPAN></DIV></BODY></HTML></div>
+
+## Skin
+
+### Button
+Button_11DEA858_0D18_2227_4195_5A085708826B.label = Balai Subak Pemaket
+Button_11DD9857_0D18_2229_4158_C9957166938C.label = Bar
+Button_11DD8857_0D18_2229_4195_BE30D90B4209.label = Chill Out
+Button_11DD5856_0D18_222B_41AA_09A76208554C.label = DRONE
+Button_11DDD857_0D18_2229_4198_2D5F9C6A6D90.label = Drone Titik Kumpul
+Button_11DD1858_0D18_2227_4169_CD533DE26F2C.label = Gatot Subroto
+Button_11DC5857_0D18_2229_41A1_1C6842529DC5.label = JALUR
+Button_11DC5859_0D18_22D9_41A3_5A6C3764BE8A.label = Jalan Gatot Kaca
+Button_11DC6859_0D18_22D9_4187_FAB82E993026.label = Lorem Ipsum
+Button_11DC3859_0D18_22D9_41A3_B6C1DFAA4032.label = Lorem Ipsum
+Button_11DC2859_0D18_22D9_4191_2CACDC97C66A.label = Lorem Ipsum
+Button_11DDB85C_0D18_22DE_4186_0B564293F9AB.label = Lorem Ipsum
+Button_11DC085C_0D18_22DE_41A4_6C5C24D9604B.label = Lorem Ipsum
+Button_11DD7858_0D18_2227_41A9_175BA6E45D06.pressedLabel = Lorem Ipsum
+Button_11DC185C_0D18_22DE_417C_94C358625BEC.label = Lorem Ipsum
+Button_11DC785C_0D18_22DE_41A2_28324A08261A.label = Lorem Ipsum
+Button_11DCB85B_0D18_22DA_4189_A25CF90A87CB.label = Lorem Ipsum
+Button_11DD2858_0D18_2227_4166_FB759E5BEF5C.label = Lorem Ipsum
+Button_11DDD858_0D18_2227_4180_BBEA4E68AC54.label = Lorem Ipsum
+Button_11DC585C_0D18_22DE_418F_C70306FF8924.label = Lorem Ipsum
+Button_11DDA85C_0D18_22DE_41A6_21AC030552DE.pressedLabel = Lorem Ipsum
+Button_11DDA85C_0D18_22DE_41A6_21AC030552DE.label = Lorem Ipsum
+Button_11DC4859_0D18_22D9_4171_45D050E8A390.label = Lorem Ipsum
+Button_11DC4859_0D18_22D9_4171_45D050E8A390.pressedLabel = Lorem Ipsum
+Button_11DC7859_0D18_22D9_417D_BDEBDB6FB54C.label = Lorem Ipsum
+Button_11DCD85B_0D18_22DA_41A4_2894D51C1475.label = Lorem Ipsum
+Button_11DD885B_0D18_22DA_4190_9596DA65F88E.label = Lorem Ipsum
+Button_11DC885B_0D18_22DA_41A3_43FBFCDDACC3.label = Lorem Ipsum
+Button_11DCC85B_0D18_22DA_419A_3E795DE78923.label = Lorem Ipsum
+Button_11DC385B_0D18_22DA_41A9_EF065F948A4D.label = Lorem Ipsum
+Button_11DC285B_0D18_22DA_419A_60455CABE0C7.label = Lorem Ipsum
+Button_11DC085A_0D18_22DA_4175_B764DE4767F5.label = Lorem Ipsum
+Button_11DC285B_0D18_22DA_419A_60455CABE0C7.pressedLabel = Lorem Ipsum
+Button_11DC0859_0D18_22D9_41A6_C435E51ABBFD.label = Lorem ipsum
+Button_11DC685C_0D18_22DE_41A6_AF358E332772.label = Lorem ipsum
+Button_11DD3858_0D18_2227_4163_27E42D5F6454.label = Lorem ipsum
+Button_11DCF85B_0D18_22DA_418F_B219E5803DA8.label = Lorem ipsum
+Button_11DD5858_0D18_2227_41A4_B0A3DD9CB025.label = Masjid Baiturahim
+Button_11DDF857_0D18_2229_41A8_32729220AFCC.label = Meeting Area 1
+Button_11DDE857_0D18_2229_4195_2EBBC0E47AE8.label = Meeting Area 2
+Button_11DB585B_0D18_22DA_41A9_9992E57BF9A9.label = RESTAURANTS >
+Button_11DDC857_0D18_2229_419C_D72B3A67502F.pressedLabel = Reception
+Button_11DDC857_0D18_2229_419C_D72B3A67502F.label = Reception
+Button_11DDA859_0D18_22D9_41A6_6F68B99C745C.label = SD 3 Pengambengan
+Button_11DC485A_0D18_22DA_4198_6766D6AED024.label = SWIMMING POOL >
+Button_11DDE858_0D18_2227_41A8_0F5D1C85FD1B.label = TIKTIK AWAL
+Button_11DCF859_0D18_22D9_419F_58829B203798.label = TITIK AKHIR
+Button_11DDB857_0D18_2229_41A1_FB1CA676B5E8.label = Terrace
+Button_11DD6858_0D18_2227_41A2_615F97581EBC.label = Titik Awal Pura Jati
+Button_11DD7858_0D18_2227_41A9_175BA6E45D06.label = Titik Awal Pura Jati
+
+### Image
+Image_04AE5F22_1BB5_1119_41A9_BC5A11E50943.url = skin/Image_04AE5F22_1BB5_1119_41A9_BC5A11E50943_en.png
+Image_04F0395C_1BAD_1129_41B5_B07189B77F2E.url = skin/Image_04F0395C_1BAD_1129_41B5_B07189B77F2E_en.png
+Image_13FF76BC_0C04_C256_41A3_BA9009F96B74.url = skin/Image_13FF76BC_0C04_C256_41A3_BA9009F96B74_en.png
+Image_A265567F_0E19_FBCE_419C_6D884D65E2C0.url = skin/Image_A265567F_0E19_FBCE_419C_6D884D65E2C0_en.png
+
+### Label
+Label_B642575A_0E18_99D6_41A0_40DE6BCBF363.text = (+/-) 764,13 m
+Label_3DE77F58_230E_39D0_41B4_5489A48C39B0.text = BALAI SUBAK PEMAKET AWEN
+Label_3BF277B8_1BB7_1169_41B6_A16701CB40C3.text = DESA PENGAMBENGAN, JIMBARAN
+Label_1AB2E9B2_0C0D_4E52_419F_D60DD04D75C3.text = PANTAI SD NEGERI 3 PENGAMBENGAN
+Label_1304AEE3_0C05_43F2_4192_3380B2899BCA.text = SUBAK PEMANGKET AWEN
+Label_133A862A_0C07_4272_4188_25FB4000F744.text = TITIK AKHIR BALAI SUBAK PEMANGKET AWEN
+Label_1A4A7BA3_0C07_4272_41A8_360A7FA2077C.text = TITIK AKHIR BALAI SUBAK PEMANGKET AWEN
+Label_2CEBD1BC_0C04_DE56_418A_736A569040E4.text = TITIK AWAL EVAKUASI PANTAI PENGAMBENGAN (+/-) 570m
+Label_1E078E3C_0C07_4256_41A6_37FF12B362B2.text = TITIK AWAL EVAKUASI SD N 3 PENGAMBENGAN
+
+### Multiline Text
+HTMLText_11DCD85C_0D18_22DE_41A1_8EB83E9B22BA.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
