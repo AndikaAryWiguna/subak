@@ -4,9 +4,9 @@
 
 ### URL
 LinkBehaviour_3176EAF8_27FD_E154_41B0_80D2F57C690D.source = https://andikaarywiguna.github.io/gatotsubroto/
+LinkBehaviour_2895EEAF_1AD7_1367_4179_1C86E9B13660.source = https://andikaarywiguna.github.io/masjidbaiturahim/
 LinkBehaviour_2F1807DB_1AD7_112F_41A2_9F9A02B18858.source = https://andikaarywiguna.github.io/purajati/
-LinkBehaviour_2A333A40_1AD7_1319_4189_60CAD51EC418.source = https://storage.net-fs.com/hosting/8263316/2/
-LinkBehaviour_2895EEAF_1AD7_1367_4179_1C86E9B13660.source = https://storage.net-fs.com/hosting/8263316/3/
+LinkBehaviour_2A333A40_1AD7_1319_4189_60CAD51EC418.source = https://andikaarywiguna.github.io/subak/
 LinkBehaviour_2D22CADC_0D08_67DF_41A9_274D1E26A4DC.source = https://web.facebook.com/bpbdjembranabali
 LinkBehaviour_2C66BF0A_0D37_FE3A_41A4_06C1C7808B40.source = https://www.instagram.com/bpbdjembranabali?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
 LinkBehaviour_2CD7D5AA_0D08_227A_419A_18F19B084238.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
@@ -22,7 +22,7 @@ HotspotPanoramaOverlayTextImage_3F71E1D9_1B5B_F12B_4194_7BC772E54222.text = TEA 
 ## Media
 
 ### Audio
-audiores_19DBDFAC_18C3_1510_41AF_0B0EAA322546.mp3Url = media/audio_19DB2C6A_18C3_3B10_41A7_A947E30E46A0_en.mp3
+audiores_129877DE_281F_CAA0_419C_8FC7D44793A9.mp3Url = media/audio_19FA82BE_280F_CAE0_41C0_C9212DF9C15B_en.mp3
 
 ### Audio Subtitles
 
@@ -149,6 +149,7 @@ Button_11DD7858_0D18_2227_41A9_175BA6E45D06.label = Titik Awal Pura Jati
 ### Image
 Image_04AE5F22_1BB5_1119_41A9_BC5A11E50943.url = skin/Image_04AE5F22_1BB5_1119_41A9_BC5A11E50943_en.png
 Image_04F0395C_1BAD_1129_41B5_B07189B77F2E.url = skin/Image_04F0395C_1BAD_1129_41B5_B07189B77F2E_en.png
+Image_1328D7D8_29F4_CAA0_41BC_657CAFD0D4BA.url = skin/Image_1328D7D8_29F4_CAA0_41BC_657CAFD0D4BA_en.png
 Image_13FF76BC_0C04_C256_41A3_BA9009F96B74.url = skin/Image_13FF76BC_0C04_C256_41A3_BA9009F96B74_en.png
 Image_A265567F_0E19_FBCE_419C_6D884D65E2C0.url = skin/Image_A265567F_0E19_FBCE_419C_6D884D65E2C0_en.png
 
