@@ -3,37 +3,37 @@
 ## Action
 
 ### URL
+LinkBehaviour_77344400_6138_DFE7_41CF_E5FD51C77DA8.source = https://andikaarywiguna.github.io/gatotsubroto/
 LinkBehaviour_68B190E1_49B7_BFFD_4186_406901ADEB93.source = https://andikaarywiguna.github.io/gatotsubroto/
-LinkBehaviour_4C16F239_5833_0166_41C4_27CEE63976AC.source = https://andikaarywiguna.github.io/gatotsubroto/
-LinkBehaviour_4C1A51D8_5833_0326_41CD_F1DC2A04E15B.source = https://andikaarywiguna.github.io/gatotsubroto/
 LinkBehaviour_3176EAF8_27FD_E154_41B0_80D2F57C690D.source = https://andikaarywiguna.github.io/gatotsubroto/
-LinkBehaviour_68B680DB_49B7_BFCE_41BA_DD28BE2EB02B.source = https://andikaarywiguna.github.io/masjidbaiturahim/
-LinkBehaviour_4C1931D3_5833_032A_41D5_0BC3F4B8DFF9.source = https://andikaarywiguna.github.io/masjidbaiturahim/
+LinkBehaviour_74CC03D7_6138_D869_41C6_7DA08341BBD6.source = https://andikaarywiguna.github.io/gatotsubroto/
+LinkBehaviour_7737D3FE_6138_D81B_41D3_684C0230DE8D.source = https://andikaarywiguna.github.io/masjidbaiturahim/
 LinkBehaviour_2895EEAF_1AD7_1367_4179_1C86E9B13660.source = https://andikaarywiguna.github.io/masjidbaiturahim/
-LinkBehaviour_4C166233_5833_016A_41BE_C91C5278D093.source = https://andikaarywiguna.github.io/masjidbaiturahim/
-LinkBehaviour_2F1807DB_1AD7_112F_41A2_9F9A02B18858.source = https://andikaarywiguna.github.io/purajati/
+LinkBehaviour_74CFD3D5_6138_D869_4187_145231BCEEF8.source = https://andikaarywiguna.github.io/masjidbaiturahim/
+LinkBehaviour_68B680DB_49B7_BFCE_41BA_DD28BE2EB02B.source = https://andikaarywiguna.github.io/masjidbaiturahim/
+LinkBehaviour_74CC43D6_6138_D86B_41C5_1407215D8A99.source = https://andikaarywiguna.github.io/purajati/
+LinkBehaviour_773783FF_6138_D819_41D7_68E79F167370.source = https://andikaarywiguna.github.io/purajati/
 LinkBehaviour_68B120DF_49B7_BFC5_41C2_C4D11CD478BE.source = https://andikaarywiguna.github.io/purajati/
-LinkBehaviour_4C108236_5833_016A_41C1_52DBDB7C3C9D.source = https://andikaarywiguna.github.io/purajati/
-LinkBehaviour_4C1A11D7_5833_032A_41D1_E8B144F517C4.source = https://andikaarywiguna.github.io/purajati/
-LinkBehaviour_68B6C0D9_49B7_BFCA_41C2_05B6A7527771.source = https://andikaarywiguna.github.io/subak/
-LinkBehaviour_4C1901D1_5833_0326_41C9_AEA3520FB1E5.source = https://andikaarywiguna.github.io/subak/
+LinkBehaviour_2F1807DB_1AD7_112F_41A2_9F9A02B18858.source = https://andikaarywiguna.github.io/purajati/
+LinkBehaviour_7737F3FD_6138_D819_41B4_BB6B16EF8D3A.source = https://andikaarywiguna.github.io/subak/
 LinkBehaviour_2A333A40_1AD7_1319_4189_60CAD51EC418.source = https://andikaarywiguna.github.io/subak/
-LinkBehaviour_4C101230_5833_0166_41AD_A180E85932F9.source = https://andikaarywiguna.github.io/subak/
-LinkBehaviour_4C1A11B7_5833_036A_41C5_4AB29AFA2751.source = https://web.facebook.com/bpbdjembranabali
+LinkBehaviour_74CC23D4_6138_D86F_41AF_D3E956739479.source = https://andikaarywiguna.github.io/subak/
+LinkBehaviour_68B6C0D9_49B7_BFCA_41C2_05B6A7527771.source = https://andikaarywiguna.github.io/subak/
 LinkBehaviour_522FEED6_4997_C3C6_41A7_CAB1657E02ED.source = https://web.facebook.com/bpbdjembranabali
-LinkBehaviour_4C1321F6_5833_02EA_41C1_90D9DC7E3195.source = https://web.facebook.com/bpbdjembranabali
+LinkBehaviour_74C1C3CA_6138_D87B_41CD_CFFEB975A01A.source = https://web.facebook.com/bpbdjembranabali
 LinkBehaviour_2D22CADC_0D08_67DF_41A9_274D1E26A4DC.source = https://web.facebook.com/bpbdjembranabali
-LinkBehaviour_4C1A01B5_5833_036E_41A8_29C6D4C811A7.source = https://www.instagram.com/bpbdjembranabali?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
+LinkBehaviour_74CA33E8_6138_D827_41C7_B065D3486C9A.source = https://web.facebook.com/bpbdjembranabali
 LinkBehaviour_522FBED5_4997_C3DA_41C3_4B3E25C05274.source = https://www.instagram.com/bpbdjembranabali?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
+LinkBehaviour_74C113CA_6138_D87B_41C7_8F3053A98781.source = https://www.instagram.com/bpbdjembranabali?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
+LinkBehaviour_74CA63E8_6138_D827_41C5_EB2BA732323A.source = https://www.instagram.com/bpbdjembranabali?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
 LinkBehaviour_2C66BF0A_0D37_FE3A_41A4_06C1C7808B40.source = https://www.instagram.com/bpbdjembranabali?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
-LinkBehaviour_4C1E91F3_5833_02EA_41B1_73A5A6D35E1F.source = https://www.instagram.com/bpbdjembranabali?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
-LinkBehaviour_522CAED7_4997_C3C6_41CE_204C9A2DD99C.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
+LinkBehaviour_74C1F3CB_6138_D879_41D7_5469B5837689.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
+LinkBehaviour_74CAE3E9_6138_D839_41B2_571173D377A7.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
 LinkBehaviour_2CD7D5AA_0D08_227A_419A_18F19B084238.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
-LinkBehaviour_4C1171F8_5833_02E6_41D5_4B080603B038.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
-LinkBehaviour_4C1AE1B9_5833_0366_41B9_CF9C341E77C7.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
+LinkBehaviour_522CAED7_4997_C3C6_41CE_204C9A2DD99C.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
 PopupWebFrameBehaviour_1D8B5026_398E_C496_419B_D867B308508E.url = //www.youtube.com/embed/QSAQSusgOto?list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6
+PopupWebFrameBehaviour_74C523AF_6138_D839_41C4_76C99CA82678.url = //www.youtube.com/embed/QSAQSusgOto?v=QSAQSusgOto&list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6&index=2
 PopupWebFrameBehaviour_12B2E85E_0C3B_CED2_4179_8481711DCD83.url = //www.youtube.com/embed/QSAQSusgOto?v=QSAQSusgOto&list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6&index=2
-PopupWebFrameBehaviour_4C271193_5833_0329_41CE_79CEC914FA4F.url = //www.youtube.com/embed/QSAQSusgOto?v=QSAQSusgOto&list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6&index=2
 
 ## Hotspot
 
@@ -117,14 +117,17 @@ album_45AA21C2_560C_BEE9_41D2_2407A46BC28D.label = Photo Album tsunami-saat-ada-
 photo_12DD6510_2502_2950_41C2_2FC588ED3B08.label = Screenshot_15
 photo_EBA6990F_044F_6917_4197_9135AAB665A6.label = Screenshot_2
 photo_BCBB8C3D_044D_EF7A_4184_954C4380E4A2.label = Screenshot_3
+video_74DBF0AC_6138_D83F_41C6_41083A1B01EB.label = drop cover Hold
 album_45AA21C2_560C_BEE9_41D2_2407A46BC28D_0.label = tsunami-saat-ada-peringatan
 album_45AA21C2_560C_BEE9_41D2_2407A46BC28D_1.label = tsunami-setelah-terjadi
 
 ### Video
-videolevel_7D395934_584D_036F_419C_899DD4DC885B.url = media/video_433BF4FD_563C_A69A_41C8_7331DA3C3A20_en.mp4
-videolevel_7D395934_584D_036F_419C_899DD4DC885B.posterURL = media/video_433BF4FD_563C_A69A_41C8_7331DA3C3A20_poster_en.jpg
-videolevel_7D3E7981_584D_0329_41CE_3C88732DDB8E.url = media/video_434CDF31_563D_A3AA_41D3_F618F90AF76C_en.mp4
-videolevel_7D3E7981_584D_0329_41CE_3C88732DDB8E.posterURL = media/video_434CDF31_563D_A3AA_41D3_F618F90AF76C_poster_en.jpg
+videolevel_4B2C9D8E_6169_A8FB_41D7_F5445C67C4E1.url = media/video_433BF4FD_563C_A69A_41C8_7331DA3C3A20_en.mp4
+videolevel_4B2C9D8E_6169_A8FB_41D7_F5445C67C4E1.posterURL = media/video_433BF4FD_563C_A69A_41C8_7331DA3C3A20_poster_en.jpg
+videolevel_4B220DF7_6169_A829_41D6_139DBE02E979.url = media/video_434CDF31_563D_A3AA_41D3_F618F90AF76C_en.mp4
+videolevel_4B220DF7_6169_A829_41D6_139DBE02E979.posterURL = media/video_434CDF31_563D_A3AA_41D3_F618F90AF76C_poster_en.jpg
+videolevel_4B212E5A_6169_A81B_41C8_5DC760B25138.url = media/video_74DBF0AC_6138_D83F_41C6_41083A1B01EB_en.mp4
+videolevel_4B212E5A_6169_A81B_41C8_5DC760B25138.posterURL = media/video_74DBF0AC_6138_D83F_41C6_41083A1B01EB_poster_en.jpg
 
 ### Video Subtitles
 
@@ -155,66 +158,68 @@ Button_6EB8D4EA_4A72_C7CF_41BB_CAC03C1AB9A5_mobile.label = INFO
 Button_6EB8D4EA_4A72_C7CF_41BB_CAC03C1AB9A5.label = INFO
 Button_11DC485A_0D18_22DA_4198_6766D6AED024_mobile.label = INFO
 Button_11DC485A_0D18_22DA_4198_6766D6AED024.label = INFO
-Button_11DC5857_0D18_2229_41A1_1C6842529DC5.label = JALUR
+Button_68B99109_49B7_BE4D_41B9_335C68BC9EAC_mobile.label = JALUR
 Button_11DC5857_0D18_2229_41A1_1C6842529DC5_mobile.label = JALUR
 Button_68B99109_49B7_BE4D_41B9_335C68BC9EAC.label = JALUR
-Button_68B99109_49B7_BE4D_41B9_335C68BC9EAC_mobile.label = JALUR
-Button_11DC5859_0D18_22D9_41A3_5A6C3764BE8A_mobile.label = Jalan Gatot Kaca
-Button_11DC5859_0D18_22D9_41A3_5A6C3764BE8A.label = Jalan Gatot Kaca
+Button_11DC5857_0D18_2229_41A1_1C6842529DC5.label = JALUR
 Button_680AB251_49B6_42DD_41D1_7F396D0E229F.label = Jalan Gatot Kaca
 Button_680AB251_49B6_42DD_41D1_7F396D0E229F_mobile.label = Jalan Gatot Kaca
+Button_11DC5859_0D18_22D9_41A3_5A6C3764BE8A_mobile.label = Jalan Gatot Kaca
+Button_11DC5859_0D18_22D9_41A3_5A6C3764BE8A.label = Jalan Gatot Kaca
 Button_42F919B3_5604_AEAE_41D3_2EE1483DA66C.label = Langkah Evakuasi
 Button_42F919B3_5604_AEAE_41D3_2EE1483DA66C_mobile.label = Langkah Evakuasi
-Button_11DC2859_0D18_22D9_4191_2CACDC97C66A.label = Lorem Ipsum
-Button_11DC7859_0D18_22D9_417D_BDEBDB6FB54C.label = Lorem Ipsum
-Button_11DD7858_0D18_2227_41A9_175BA6E45D06.pressedLabel = Lorem Ipsum
-Button_11DC4859_0D18_22D9_4171_45D050E8A390.label = Lorem Ipsum
-Button_11DC4859_0D18_22D9_4171_45D050E8A390.pressedLabel = Lorem Ipsum
-Button_11DC3859_0D18_22D9_41A3_B6C1DFAA4032.label = Lorem Ipsum
 Button_11DDD858_0D18_2227_4180_BBEA4E68AC54.label = Lorem Ipsum
-Button_11DC6859_0D18_22D9_4187_FAB82E993026.label = Lorem Ipsum
+Button_11DC4859_0D18_22D9_4171_45D050E8A390.pressedLabel = Lorem Ipsum
+Button_11DC7859_0D18_22D9_417D_BDEBDB6FB54C.label = Lorem Ipsum
+Button_11DC2859_0D18_22D9_4191_2CACDC97C66A.label = Lorem Ipsum
+Button_11DC4859_0D18_22D9_4171_45D050E8A390.label = Lorem Ipsum
+Button_11DC3859_0D18_22D9_41A3_B6C1DFAA4032.label = Lorem Ipsum
 Button_11DC2859_0D18_22D9_4191_2CACDC97C66A_mobile.label = Lorem Ipsum
+Button_11DC6859_0D18_22D9_4187_FAB82E993026.label = Lorem Ipsum
 Button_11DC3859_0D18_22D9_41A3_B6C1DFAA4032_mobile.label = Lorem Ipsum
 Button_11DD2858_0D18_2227_4166_FB759E5BEF5C.label = Lorem Ipsum
-Button_11DC7859_0D18_22D9_417D_BDEBDB6FB54C_mobile.label = Lorem Ipsum
-Button_11DC4859_0D18_22D9_4171_45D050E8A390_mobile.label = Lorem Ipsum
-Button_11DC4859_0D18_22D9_4171_45D050E8A390_mobile.pressedLabel = Lorem Ipsum
 Button_11DC6859_0D18_22D9_4187_FAB82E993026_mobile.label = Lorem Ipsum
-Button_11DDD858_0D18_2227_4180_BBEA4E68AC54_mobile.label = Lorem Ipsum
+Button_11DC4859_0D18_22D9_4171_45D050E8A390_mobile.pressedLabel = Lorem Ipsum
+Button_11DC7859_0D18_22D9_417D_BDEBDB6FB54C_mobile.label = Lorem Ipsum
 Button_11DD7858_0D18_2227_41A9_175BA6E45D06_mobile.pressedLabel = Lorem Ipsum
+Button_11DC4859_0D18_22D9_4171_45D050E8A390_mobile.label = Lorem Ipsum
+Button_11DD7858_0D18_2227_41A9_175BA6E45D06.pressedLabel = Lorem Ipsum
+Button_11DDD858_0D18_2227_4180_BBEA4E68AC54_mobile.label = Lorem Ipsum
 Button_11DD2858_0D18_2227_4166_FB759E5BEF5C_mobile.label = Lorem Ipsum
 Button_11DC0859_0D18_22D9_41A6_C435E51ABBFD_mobile.label = Lorem ipsum
+Button_11DD3858_0D18_2227_4163_27E42D5F6454.label = Lorem ipsum
 Button_11DC0859_0D18_22D9_41A6_C435E51ABBFD.label = Lorem ipsum
 Button_11DD3858_0D18_2227_4163_27E42D5F6454_mobile.label = Lorem ipsum
-Button_11DD3858_0D18_2227_4163_27E42D5F6454.label = Lorem ipsum
-Button_68B6F0DA_49B7_BFCE_41A2_C818B3A6B149.label = Masjid Baiturahim
 Button_11DD5858_0D18_2227_41A4_B0A3DD9CB025_mobile.label = Masjid Baiturahim
+Button_68B6F0DA_49B7_BFCE_41A2_C818B3A6B149.label = Masjid Baiturahim
 Button_11DD5858_0D18_2227_41A4_B0A3DD9CB025.label = Masjid Baiturahim
 Button_68B6F0DA_49B7_BFCE_41A2_C818B3A6B149_mobile.label = Masjid Baiturahim
-Button_4675F4F3_560C_A6AE_41AD_02C936E98097.label = Pengenalan Rambu
+Button_7775DB9E_6139_A81B_41C2_499696BA7A81.label = Penanggulangan
+Button_7775DB9E_6139_A81B_41C2_499696BA7A81_mobile.label = Penanggulangan
 Button_4675F4F3_560C_A6AE_41AD_02C936E98097_mobile.label = Pengenalan Rambu
-Button_467054F0_560C_A6AA_41D3_C4A532209457.label = Peta 
+Button_4675F4F3_560C_A6AE_41AD_02C936E98097.label = Pengenalan Rambu
 Button_467054F0_560C_A6AA_41D3_C4A532209457_mobile.label = Peta 
+Button_467054F0_560C_A6AA_41D3_C4A532209457.label = Peta 
+Button_11DDA859_0D18_22D9_41A6_6F68B99C745C_mobile.label = SD 3 Pengambengan
+Button_680F124F_49B6_42C5_41D1_2DF959732654.label = SD 3 Pengambengan
 Button_11DDA859_0D18_22D9_41A6_6F68B99C745C.label = SD 3 Pengambengan
 Button_680F124F_49B6_42C5_41D1_2DF959732654_mobile.label = SD 3 Pengambengan
-Button_680F124F_49B6_42C5_41D1_2DF959732654.label = SD 3 Pengambengan
-Button_11DDA859_0D18_22D9_41A6_6F68B99C745C_mobile.label = SD 3 Pengambengan
-Button_11DDE858_0D18_2227_41A8_0F5D1C85FD1B_mobile.label = TIKTIK AWAL
 Button_6817825E_49B6_42C7_41C6_66CD7C143F84.label = TIKTIK AWAL
 Button_6817825E_49B6_42C7_41C6_66CD7C143F84_mobile.label = TIKTIK AWAL
 Button_11DDE858_0D18_2227_41A8_0F5D1C85FD1B.label = TIKTIK AWAL
-Button_6D1467FA_4A92_41CF_41C4_63AAEBB5668C.label = TITIK AKHIR
+Button_11DDE858_0D18_2227_41A8_0F5D1C85FD1B_mobile.label = TIKTIK AWAL
 Button_11DCF859_0D18_22D9_419F_58829B203798_mobile.label = TITIK AKHIR
 Button_11DCF859_0D18_22D9_419F_58829B203798.label = TITIK AKHIR
+Button_6D1467FA_4A92_41CF_41C4_63AAEBB5668C.label = TITIK AKHIR
 Button_6D1467FA_4A92_41CF_41C4_63AAEBB5668C_mobile.label = TITIK AKHIR
 Button_467514F0_560C_A6AA_4177_547F1A4A274C.label = Tindakan
 Button_467514F0_560C_A6AA_4177_547F1A4A274C_mobile.label = Tindakan
 Button_68B600DE_49B7_BFC7_41D0_EAA7AD58D33F_mobile.label = Titik Awal Pura Jati
-Button_11DD7858_0D18_2227_41A9_175BA6E45D06_mobile.label = Titik Awal Pura Jati
-Button_11DD6858_0D18_2227_41A2_615F97581EBC_mobile.label = Titik Awal Pura Jati
-Button_11DD7858_0D18_2227_41A9_175BA6E45D06.label = Titik Awal Pura Jati
 Button_68B600DE_49B7_BFC7_41D0_EAA7AD58D33F.label = Titik Awal Pura Jati
+Button_11DD6858_0D18_2227_41A2_615F97581EBC_mobile.label = Titik Awal Pura Jati
+Button_11DD7858_0D18_2227_41A9_175BA6E45D06_mobile.label = Titik Awal Pura Jati
 Button_11DD6858_0D18_2227_41A2_615F97581EBC.label = Titik Awal Pura Jati
+Button_11DD7858_0D18_2227_41A9_175BA6E45D06.label = Titik Awal Pura Jati
 
 ### Image
 Image_1EF23B22_3987_C48E_41C5_554CEE4D665F.url = skin/Image_1EF23B22_3987_C48E_41C5_554CEE4D665F_en.png
