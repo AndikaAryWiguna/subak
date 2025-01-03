@@ -3,23 +3,25 @@
 ## Action
 
 ### URL
+LinkBehaviour_3569CA47_264C_DF37_41BB_00C1AD9257AC.source = https://360.bnpb.go.id/static-jembrana-gatotkaca6
+LinkBehaviour_68B190E1_49B7_BFFD_4186_406901ADEB93.source = https://360.bnpb.go.id/static-jembrana-gatotsubroto
+LinkBehaviour_68B680DB_49B7_BFCE_41BA_DD28BE2EB02B.source = https://360.bnpb.go.id/static-jembrana-masjidbaiturahim
+LinkBehaviour_68B120DF_49B7_BFC5_41C2_C4D11CD478BE.source = https://360.bnpb.go.id/static-jembrana-purajati
+LinkBehaviour_3469EC31_264D_FB68_41C1_569F97D5E617.source = https://360.bnpb.go.id/static-jembrana-subak
 LinkBehaviour_A874AFEC_8A01_F534_41C8_94F99E0C0CEB.source = https://andikaarywiguna.github.io/gatotsubroto/
-LinkBehaviour_68B190E1_49B7_BFFD_4186_406901ADEB93.source = https://andikaarywiguna.github.io/gatotsubroto/
 LinkBehaviour_A8708FEA_8A01_F53C_41D0_EB92AED8341B.source = https://andikaarywiguna.github.io/masjidbaiturahim/
-LinkBehaviour_68B680DB_49B7_BFCE_41BA_DD28BE2EB02B.source = https://andikaarywiguna.github.io/masjidbaiturahim/
 LinkBehaviour_A8763FEB_8A01_F53C_41B2_77D8AC51B851.source = https://andikaarywiguna.github.io/purajati/
-LinkBehaviour_68B120DF_49B7_BFC5_41C2_C4D11CD478BE.source = https://andikaarywiguna.github.io/purajati/
-LinkBehaviour_A8701FE9_8A01_F53C_41C9_E35D303B390B.source = https://andikaarywiguna.github.io/subak/
 LinkBehaviour_68B6C0D9_49B7_BFCA_41C2_05B6A7527771.source = https://andikaarywiguna.github.io/subak/
-LinkBehaviour_A80D500D_8A01_EAF4_41D6_38006235098C.source = https://web.facebook.com/bpbdjembranabali
+LinkBehaviour_A8701FE9_8A01_F53C_41C9_E35D303B390B.source = https://andikaarywiguna.github.io/subak/
 LinkBehaviour_2D22CADC_0D08_67DF_41A9_274D1E26A4DC.source = https://web.facebook.com/bpbdjembranabali
+LinkBehaviour_A80D500D_8A01_EAF4_41D6_38006235098C.source = https://web.facebook.com/bpbdjembranabali
 LinkBehaviour_2C66BF0A_0D37_FE3A_41A4_06C1C7808B40.source = https://www.instagram.com/bpbdjembranabali?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
 LinkBehaviour_A808F00C_8A01_EAF4_41C2_78270E6F3DD6.source = https://www.instagram.com/bpbdjembranabali?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
 LinkBehaviour_A80D600D_8A01_EAF4_41DA_4380B0459DFE.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
 LinkBehaviour_2CD7D5AA_0D08_227A_419A_18F19B084238.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
 PopupWebFrameBehaviour_1D8B5026_398E_C496_419B_D867B308508E.url = //www.youtube.com/embed/QSAQSusgOto?list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6
-PopupWebFrameBehaviour_12B2E85E_0C3B_CED2_4179_8481711DCD83.url = //www.youtube.com/embed/QSAQSusgOto?v=QSAQSusgOto&list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6&index=2
 PopupWebFrameBehaviour_A87E6FD7_8A01_F514_41E0_C856C19045AF.url = //www.youtube.com/embed/QSAQSusgOto?v=QSAQSusgOto&list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6&index=2
+PopupWebFrameBehaviour_12B2E85E_0C3B_CED2_4179_8481711DCD83.url = //www.youtube.com/embed/QSAQSusgOto?v=QSAQSusgOto&list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6&index=2
 
 ## Hotspot
 
@@ -108,12 +110,12 @@ album_45AA21C2_560C_BEE9_41D2_2407A46BC28D_0.label = tsunami-saat-ada-peringatan
 album_45AA21C2_560C_BEE9_41D2_2407A46BC28D_1.label = tsunami-setelah-terjadi
 
 ### Video
-videolevel_CC726A8F_8A01_7FF5_4182_B84DB9F222F9.url = media/video_433BF4FD_563C_A69A_41C8_7331DA3C3A20_en.mp4
-videolevel_CC726A8F_8A01_7FF5_4182_B84DB9F222F9.posterURL = media/video_433BF4FD_563C_A69A_41C8_7331DA3C3A20_poster_en.jpg
-videolevel_CC7F4B02_8A01_7EEF_41DC_01FB473AC591.url = media/video_434CDF31_563D_A3AA_41D3_F618F90AF76C_en.mp4
-videolevel_CC7F4B02_8A01_7EEF_41DC_01FB473AC591.posterURL = media/video_434CDF31_563D_A3AA_41D3_F618F90AF76C_poster_en.jpg
-videolevel_CC7BDB66_8A01_7D34_41B7_4F3A609C4314.url = media/video_74DBF0AC_6138_D83F_41C6_41083A1B01EB_en.mp4
-videolevel_CC7BDB66_8A01_7D34_41B7_4F3A609C4314.posterURL = media/video_74DBF0AC_6138_D83F_41C6_41083A1B01EB_poster_en.jpg
+videolevel_3001073C_2644_F558_41AC_0DD21E956829.url = media/video_433BF4FD_563C_A69A_41C8_7331DA3C3A20_en.mp4
+videolevel_3001073C_2644_F558_41AC_0DD21E956829.posterURL = media/video_433BF4FD_563C_A69A_41C8_7331DA3C3A20_poster_en.jpg
+videolevel_3001D790_2644_F528_41B3_36B941B5853B.url = media/video_434CDF31_563D_A3AA_41D3_F618F90AF76C_en.mp4
+videolevel_3001D790_2644_F528_41B3_36B941B5853B.posterURL = media/video_434CDF31_563D_A3AA_41D3_F618F90AF76C_poster_en.jpg
+videolevel_3002C7E2_2644_F4E8_41C1_308DC77413A7.url = media/video_74DBF0AC_6138_D83F_41C6_41083A1B01EB_en.mp4
+videolevel_3002C7E2_2644_F4E8_41C1_308DC77413A7.posterURL = media/video_74DBF0AC_6138_D83F_41C6_41083A1B01EB_poster_en.jpg
 
 ### Video Subtitles
 
